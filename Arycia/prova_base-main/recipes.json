@@ -1,0 +1,175 @@
+[
+  {
+    "id": "1",
+    "name": "Espaguete à Carbonara",
+    "ingredients": ["Espaguete", "Ovos", "Pancetta", "Queijo parmesão"],
+    "instructions": [
+      "Ferva o espaguete.",
+      "Cozinhe a pancetta até ficar crocante.",
+      "Misture os ovos e o queijo parmesão em uma tigela.",
+      "Combine o espaguete, a pancetta e a mistura de ovos.",
+      "Sirva com queijo parmesão extra."
+    ],
+    "image": "/images/espaguete_carbonara.png"
+  },
+  {
+    "id": "2",
+    "name": "Frango Alfredo",
+    "ingredients": [
+      "Frango",
+      "Fettuccine",
+      "Creme de leite",
+      "Queijo parmesão"
+    ],
+    "instructions": [
+      "Cozinhe o fettuccine conforme as instruções da embalagem.",
+      "Refogue o frango até estar completamente cozido.",
+      "Em uma panela, aqueça o creme de leite e adicione o queijo parmesão.",
+      "Combine o frango e o molho com o fettuccine.",
+      "Sirva com queijo parmesão extra."
+    ],
+    "image": "/images/frango_alfredo.png"
+  },
+  {
+    "id": "3",
+    "name": "Moqueca de Peixe",
+    "ingredients": [
+      "Peixe",
+      "Leite de coco",
+      "Pimentão",
+      "Cebola",
+      "Tomate",
+      "Coentro"
+    ],
+    "instructions": [
+      "Tempere o peixe com sal, pimenta e suco de limão.",
+      "Em uma panela, faça camadas de peixe, pimentão, cebola e tomate.",
+      "Adicione o leite de coco e cozinhe em fogo baixo até o peixe estar cozido.",
+      "Finalize com coentro picado."
+    ],
+    "image": "/images/moqueca_peixe.png"
+  },
+  {
+    "id": "4",
+    "name": "Feijoada",
+    "ingredients": [
+      "Feijão preto",
+      "Carne de porco",
+      "Linguiça",
+      "Cebola",
+      "Alho",
+      "Louro"
+    ],
+    "instructions": [
+      "Deixe o feijão de molho por pelo menos 8 horas.",
+      "Cozinhe o feijão com a carne de porco e a linguiça.",
+      "Em uma panela separada, refogue a cebola e o alho.",
+      "Adicione o refogado ao feijão e cozinhe até engrossar.",
+      "Sirva com arroz e couve."
+    ],
+    "image": "/images/feijoada.png"
+  },
+  {
+    "id": "5",
+    "name": "Brigadeiro",
+    "ingredients": [
+      "Leite condensado",
+      "Chocolate em pó",
+      "Manteiga",
+      "Granulado"
+    ],
+    "instructions": [
+      "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga.",
+      "Cozinhe em fogo baixo, mexendo sempre, até desgrudar do fundo da panela.",
+      "Deixe esfriar e faça bolinhas.",
+      "Passe no granulado e coloque em forminhas."
+    ],
+    "image": "/images/brigadeiro.png"
+  },
+  {
+    "id": "6",
+    "name": "Pão de Queijo",
+    "ingredients": ["Polvilho doce", "Queijo ralado", "Leite", "Ovos", "Óleo"],
+    "instructions": [
+      "Em uma panela, ferva o leite com o óleo.",
+      "Despeje sobre o polvilho e misture.",
+      "Adicione os ovos e o queijo ralado.",
+      "Faça bolinhas e asse em forno pré-aquecido até dourar."
+    ],
+    "image": "/images/pao_queijo.png"
+  },
+  {
+    "id": "7",
+    "name": "Vatapá",
+    "ingredients": [
+      "Pão",
+      "Leite de coco",
+      "Azeite de dendê",
+      "Camarão",
+      "Amendoim",
+      "Castanha de caju"
+    ],
+    "instructions": [
+      "Deixe o pão de molho no leite de coco.",
+      "Bata no liquidificador com os outros ingredientes até formar um creme.",
+      "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+      "Sirva com arroz branco."
+    ],
+    "image": "/images/vatapa.png"
+  },
+  {
+    "id": "8",
+    "name": "Acarajé",
+    "ingredients": [
+      "Feijão-fradinho",
+      "Cebola",
+      "Azeite de dendê",
+      "Camarão seco"
+    ],
+    "instructions": [
+      "Deixe o feijão de molho e retire a casca.",
+      "Bata no processador com a cebola até formar uma massa.",
+      "Frite colheradas da massa no azeite de dendê.",
+      "Sirva com camarão seco e vatapá."
+    ],
+    "image": "/images/acaraje.png"
+  },
+  {
+    "id": "9",
+    "name": "Coxinha",
+    "ingredients": [
+      "Frango desfiado",
+      "Farinha de trigo",
+      "Caldo de galinha",
+      "Leite",
+      "Farinha de rosca"
+    ],
+    "instructions": [
+      "Faça uma massa cozinhando a farinha de trigo com o leite e o caldo de galinha.",
+      "Recheie com frango desfiado.",
+      "Modele as coxinhas e passe na farinha de rosca.",
+      "Frite em óleo quente até dourar."
+    ],
+    "image": "/images/coxinha.png"
+  },
+  {
+    "id": "10",
+    "name": "Bolo de Cenoura",
+    "ingredients": [
+      "Cenoura",
+      "Ovos",
+      "Farinha de trigo",
+      "Açúcar",
+      "Óleo",
+      "Fermento",
+      "Chocolate em pó"
+    ],
+    "instructions": [
+      "Bata a cenoura, os ovos e o óleo no liquidificador.",
+      "Misture com a farinha, o açúcar e o fermento.",
+      "Asse em forno pré-aquecido até dourar.",
+      "Cubra com uma calda de chocolate."
+    ],
+    "image": "/images/bolo_cenoura.png"
+  }
+]
